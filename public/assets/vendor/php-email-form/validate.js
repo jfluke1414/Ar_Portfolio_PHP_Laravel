@@ -109,12 +109,12 @@ jQuery(document).ready(function($) {
       type: "POST",
       url: action,
       data: str,
-      success: function(msg) {
-        if (msg == 'OK') {
+      success: function(msg) {    	  
+        if (msg == 'Sent') {        	
           this_form.find('.loading').slideUp();
           this_form.find('.sent-message').slideDown();
           this_form.find("input:not(input[type=submit]), textarea").val('');
-        } else {
+        } else {        	
           this_form.find('.loading').slideUp();
           this_form.find('.error-message').slideDown().html(msg);
         }

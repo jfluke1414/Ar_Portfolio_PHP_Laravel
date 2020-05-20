@@ -16,3 +16,13 @@
 // });
 
 Route::get('/', 'MainController@index');
+
+//Route::view('test', 'test');
+Route::get('/test', 'TestController@index');
+
+Route::post('contact', 'ContactController@send');
+
+//Route::post('contactscontroller', function (){
+//     var_dump();
+//     return "aa";
+// });
