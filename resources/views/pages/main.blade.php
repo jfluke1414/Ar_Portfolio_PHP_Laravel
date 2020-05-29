@@ -15,6 +15,10 @@
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav><!-- .nav-menu -->
+    
+<audio id="myaudio" style="height:20px;width:380px;padding-left:150px;" controls loop autoplay />
+	<source src="assets/music/GrownUps.mp3" type="audio/mp3">
+</audio>
 
   </header><!-- End Header -->
 
@@ -26,7 +30,7 @@
       <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
     </div>
   </section><!-- End Hero -->
-
+    
   <main id="main">
 
     <!-- ======= About Me Section ======= -->
