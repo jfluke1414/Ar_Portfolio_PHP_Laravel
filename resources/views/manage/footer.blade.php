@@ -10,9 +10,9 @@
         <!-- <a href="jfluke1414@gmail.com" class="google-plus"><i class="bx bxl-skype"></i></a> -->
         <a href="https://linkedin.com/in/aaron-hyunjin-yeo" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         
-        <a href="https://github.com/jfluke1414?tab=repositories" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://github.com/jfluke1414" target="_blank" class="github"><i class="bx bxl-github"></i></a>
         <a href="https://jfluke1414.github.io/" target="_blank" class="blogger"><i class="bx bxl-blogger"></i></a>
-        <a href="https://192.168.5.178:8080" target="_blank" class="chrome"><i class="bx bxl-chrome"></i></a>
+        <a href="http://192.168.5.186:8080/" target="_blank" class="chrome"><i class="bx bxl-chrome"></i></a>
         
         
       </div>
@@ -44,7 +44,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
+  
 </body>
 
 </html>

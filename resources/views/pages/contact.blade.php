@@ -24,9 +24,9 @@
                     <a href="https://www.instagram.com/hyunjin_aaron" target="_blank" class="instagram"><i class="icofont-instagram"></i></a>
                     <!-- <a href="jfluke1414@gmail.com" class="google-plus"><i class="icofont-skype"></i></a> -->
                     <a href="https://linkedin.com/in/aaron-hyunjin-yeo" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
-                    <a href="https://github.com/jfluke1414?tab=repositories" target="_blank" class="github"><i class="icofont-github"></i></a>
+                    <a href="https://github.com/jfluke1414" target="_blank" class="github"><i class="icofont-github"></i></a>
                     <a href="https://jfluke1414.github.io/" target="_blank" class="blogger"><i class="icofont-blogger"></i></a>
-                    <a href="https://192.168.5.178:8080" target="_blank" class="web"><i class="icofont-web"></i></a>
+                    <a href="http://192.168.5.186:8080/" target="_blank" class="web"><i class="icofont-web"></i></a>
                     
                   </div>
                 </div>

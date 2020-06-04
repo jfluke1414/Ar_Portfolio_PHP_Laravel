@@ -16,9 +16,11 @@
       </ul>
     </nav><!-- .nav-menu -->
     
-<audio id="myaudio" style="height:20px;width:380px;padding-left:150px;" controls loop autoplay />
+<audio autoplay id="myaudio" style="height:20px;width:380px;padding-left:150px;" controls loop>
 	<source src="assets/music/GrownUps.mp3" type="audio/mp3">
+	<source src="assets/music/OntheNatureofDaylight.mp3" type="audio/mp3">
 </audio>
+
 
   </header><!-- End Header -->
 

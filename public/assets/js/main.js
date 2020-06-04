@@ -4,9 +4,25 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+
 !(function($) {
   "use strict";
+	
+//  var promise = document.getElementById('myaudio').play();
+//  console.log(promise);
+//  if (promise !== undefined) {
+//    promise.then(_ => {
+//    	alert('success playing');
+//      // Autoplay started!
+//    }).catch(error => {
+//      // Autoplay was prevented.
+//      // Show a "Play" button so that user can start playback.
+//    	alert('play failed');
+//    });
+//  }
 
+  
   // Smooth scroll for the navigation menu and links with .scrollto classes
   $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function(e) {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -130,6 +146,8 @@
   });
   // Porfolio isotope and filter
   $(window).on('load', function() {
+	  
+  
     var portfolioIsotope = $('.portfolio-container').isotope({
       itemSelector: '.portfolio-item'
     });

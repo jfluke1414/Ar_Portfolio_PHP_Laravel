@@ -13,7 +13,7 @@
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Backend programmer</h4>
-              <p><em>6+ years of experience in developing and supporting technology parts in IT</em></p>
+              <p><em>5+ years of experience in developing and supporting technology parts in IT</em></p>
               <p>
               <ul>
                 <li>Burnaby, BC</li>
